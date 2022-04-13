@@ -42,5 +42,5 @@ My algorithm keeps an array of obstructed view regions which are each determined
 Due to the assumed linear directional properties of light waves, we can reverse our visibility algorithm to show the regions which cannot 
 be seen by the agent in question due to other agents, this allows more accurate assumptions for movement alogrithms based on the knowledge each agent would have in a real life scenario. 
 
-This can be shown here: 
+
 
