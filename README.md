@@ -28,7 +28,7 @@ The program is developed from a basic concept of obstructed regions, simply put 
 Please see the (badly drawn sorry) Diagram showing the basics of the aglorithm (1)  and the reverse application (2) of the algorithm which can have uses to determine an agents visible information field (i.e the agent can't know what lies behind the obstruction but the first application (1) assumes perfect knowledge that their view of the target is blocked by knowing that the performer is at a given point behind the obstruction, if that makes sense?, application (2) just suggests they can't see what, if anything, in that certain field) 
 
 
-    ![Diagram1, visbility aglorithm](/assets/images/readmediagram1-2.jpg)
+    ![Diagram 1 Visbility Aglorithm](https://ibb.co/v1fGsqH)
 
 
 
